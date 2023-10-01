@@ -42,7 +42,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
 
 ## Working
 
-Run the project from `App.java` file . The repository contains pre-compiled class files. If not present , compile it and then run the project.
+Run the project from `App.java` file present in `src` folder. The repository contains pre-compiled class files. If not present , compile it and then run the project.
 
 
 
