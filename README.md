@@ -12,7 +12,6 @@ This project is done to overcome the problem of generating random teams for a pu
 - Takes input of total candidates and size of per team.
 - Generates uniques team.
 - when there is shortage of candidates for a team , it adds an extra number which is more than the number of candidates.
-- Repository already contains pre-compiled class files.
 - IDE setup codes are already present for VS Code and IntelliJ IDEA
 
 
